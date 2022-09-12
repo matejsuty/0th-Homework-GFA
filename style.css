@@ -1,0 +1,70 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(images/topography.webp);
+}
+
+#navigation {
+    width: 100%;
+    height: 50px;
+    background-color: #333333;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.menu {
+    margin-left: 1000px;
+}
+
+li {
+    float: left;
+    list-style-type: none;
+}
+
+li a {
+    padding: 14px;
+    font-size: 17px;
+}
+
+a {
+    color: #ff0099;
+}
+
+.logo {
+    float: left;
+    padding-left: 150px;
+    padding-top: 10px;
+}
+
+#about-me {
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: large;
+}
+
+#technology-wiki {
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: large;
+}
+
+.separator {
+    margin-left: 50%;
+    font-size: x-large;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#about-me h2{
+    color: #ff0099;
+    font-size: xx-large;
+}
+
+dt {
+    font-weight: bold;
+    font-size: larger;
+}
